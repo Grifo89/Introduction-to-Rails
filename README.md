@@ -1,24 +1,28 @@
-# README
+# Ruby introductory project: Getting your feet wet
+This is an introductory rails projects. It introduces the concept of MVC, routes management and relationship between models.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Things you may want to cover:
 
-Things you may want to cover:
 
+# TECHNICAL DOCUMENTATION
+## Pre-requisites
 * Ruby version
+You will need Ruby Version 2.6.5
 
 * System dependencies
+Windows/ Mac
+Rails 6.0.1
 
-* Configuration
+## Installation and running
+Clone project and run
+`bundle install --without production`
 
-* Database creation
+ Start the rails server
+`rails server`
 
-* Database initialization
+## How to contribute and partipate
+Fork this repo and submit a PR for review and potential merge to main branch
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Engineers
+1. [Christian Salazar](https://github.com/Grifo89)
+2. [Edem Agbenyo](https://github.com/edemagbenyo/)
